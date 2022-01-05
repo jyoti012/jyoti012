@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jyoti Suvarna!
 - 👀 I’m interested in building user interfaces that are clean and easy to use. Javascript|ReactJs|AngularJs|NodeJs:heart:  
 - 🌱 I’m currently learning about Product Management.
-- 📫 You can reach me via e-mail at suvarnajyoti01@gmail.com
 
 <!---
 jyoti012/jyoti012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
