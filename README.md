@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jyoti Suvarna!
-- 👀 I’m interested in building user interfaces that are clean and easy to use. Javascript|ReactJs|Angular|NodeJs:heart:  
+- 👀 Building user interfaces that are clean and easy to use. 
 - 🌱 Customer-focused engineering
+-  Javascript|ReactJs|Angular|NodeJs:heart: 
 
 <!---
 jyoti012/jyoti012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
