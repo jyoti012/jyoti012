@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jyoti Suvarna!
 - 👀 Building user interfaces that are clean and easy to use. 
 - 🌱 Customer-focused engineering
--  Javascript|ReactJs|Angular|NodeJs|React Native :heart: 
+-  Javascript|ReactJS|NodeJS|React Native :heart: 
 
 <!---
 jyoti012/jyoti012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
