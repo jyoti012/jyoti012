@@ -66,11 +66,10 @@ I'm passionate about building scalable web applications that solve real problems
 
 ## 📊 By The Numbers
 
-- **7+** years building web applications
+- **8+** years building web applications
 - **10+** production applications shipped
 - **1M+** combined users across projects
-- **99.2%** system uptime (SLA tracked)
-- **500K+** active users on largest platform
+- **99.2%** system uptime 
 - **85%+** test coverage maintained
 - **40%** bug reduction through testing & automation
 - **28%** avg page load time improvement
