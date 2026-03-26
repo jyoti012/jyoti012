@@ -105,7 +105,7 @@ I'm interested in opportunities where I can:
 
 ✓ Build products that users genuinely love
 
-Feel free to reach out or check out my projects below. Let's build something awesome! 🚀
+Feel free to reach out. Let's build something awesome! 🚀
 
 ---
 
