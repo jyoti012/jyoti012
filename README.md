@@ -80,7 +80,7 @@ I'm passionate about building scalable web applications that solve real problems
 
 ## 🔗 Find Me Elsewhere
 
-- **LinkedIn**: [linkedin.com/in/jyoti]([ttps://www.linkedin.com/in/jyoti-suvarna/](https://www.linkedin.com/in/jyoti-suvarna/)) — Professional updates & insights
+- **LinkedIn**: [linkedin.com/in/jyoti](https://www.linkedin.com/in/jyoti-suvarna/) — Professional updates & insights
 
 ---
 
