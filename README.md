@@ -2,7 +2,7 @@
 
 Senior Frontend Engineer | Full Stack Developer | Problem Solver
 
-I'm passionate about building scalable web applications that solve real problems. With 8+ years of experience, I've learned that great code isn't just technically sound—it's maintainable, performant, and built with the user in mind.
+I'm passionate about building scalable web applications that solve real problems. With 8+ years of experience, I've learned that great code isn't just technically sound, it's maintainable, performant, and built with the user in mind.
 
 ---
 
@@ -61,19 +61,6 @@ I'm passionate about building scalable web applications that solve real problems
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?style=flat-square)
-
----
-
-## 📊 By The Numbers
-
-- **8+** years building web applications
-- **10+** production applications shipped
-- **1M+** combined users across projects
-- **99.2%** system uptime 
-- **85%+** test coverage maintained
-- **40%** bug reduction through testing & automation
-- **28%** avg page load time improvement
-- **5+** junior engineers mentored
 
 ---
 
